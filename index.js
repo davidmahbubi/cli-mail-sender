@@ -1,4 +1,3 @@
-const nodemailer = require('nodemailer');
 const prompt = require('prompt-sync')();
 const Mailler = require('./libs/mailler');
 
