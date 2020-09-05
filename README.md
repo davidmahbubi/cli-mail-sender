@@ -8,7 +8,7 @@ What is this ? this is a mailer tool that working on cli, using nodemailer libra
 npm install
 ```
 
-Then, rename the .env.sample file to .env and feel it with your email host configuration
+Then, rename the .env.sample file to .env and fill it with your email host configuration
 
 ## HOW TO USE 😊
 
